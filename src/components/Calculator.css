@@ -11,6 +11,10 @@
     width: 30%;
     height: 90%;
     border-radius: 10px;
+    display: flex;
+    align-items: normal;
+    justify-content: space-between;
+    flex-direction: column;
 }
 .buttons{
     display: flex;
